@@ -12,8 +12,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://mechanicalflight.com
-root: /
+url: https://gmcclure.gitlab.io/
+root: /mechanical-flight/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
