@@ -2,9 +2,8 @@
 
 /* Heavy influence: https://github.com/edwardtufte/tufte-css */
 
-/* Colors */
+/* Colors 
 
-/* 
    Current color palette:
    
    #5d001e -- dark, for headlines
@@ -13,8 +12,6 @@
    #9a1750 -- subheads
    #ee4c7c -- emphasis, sub-subs
 */
-
-
 body {
     background-color: #eae7dc;
 }
