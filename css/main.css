@@ -61,9 +61,13 @@ article h1 {
     color: #9a1750;
 }
 
+article {
+    width: 55%
+}
+
 section > p, 
 section > footer, 
-section > table { width: 55%; }
+section > table { width: 100%; }
 
 h1.site-title {
     color: #5d001e;
@@ -104,6 +108,32 @@ article h1 {
 
 article h1 a {
     color: #9a1750;
+}
+
+article h2 {
+    font-family: 'Playfair Display SC', serif;
+    font-size: 24px;
+}
+
+article table {
+    border-collapse: collapse;
+}
+
+article th {
+    background-color: #333;
+    color: white;
+    font-style: italic;
+}
+
+article td {
+    font-size: 16px;
+    padding: 6px;
+    vertical-align: top;
+}
+
+article tr:nth-child(even) {
+    background-color: #666;
+    color: white;
 }
 
 h1.site-title + p {
