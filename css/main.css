@@ -155,3 +155,7 @@ blockquote footer {
     font-size: 1.1rem;
     text-align: right;
 }
+
+.comments {
+    margin-top: 40px;
+}
