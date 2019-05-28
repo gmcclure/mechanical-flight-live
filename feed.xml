@@ -1,13 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-05-26T18:14:08-07:00</updated><id>/feed.xml</id><title type="html">Mechanical Flight</title><subtitle>The headspace of Gregory J. McClure.</subtitle><entry><title type="html">Reaper Settings for Mac OS X</title><link href="/music-production/2014/05/26/reaper-settings.html" rel="alternate" type="text/html" title="Reaper Settings for Mac OS X" /><published>2014-05-26T17:42:00-07:00</published><updated>2014-05-26T17:42:00-07:00</updated><id>/music-production/2014/05/26/reaper-settings</id><content type="html" xml:base="/music-production/2014/05/26/reaper-settings.html">&lt;h3 id=&quot;draft&quot;&gt;[DRAFT]&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-05-27T17:24:51-07:00</updated><id>/feed.xml</id><title type="html">Mechanical Flight</title><subtitle>The headspace of Gregory J. McClure.</subtitle><entry><title type="html">Reaper Settings for macOS</title><link href="/music-production/2019/05/26/reaper-settings.html" rel="alternate" type="text/html" title="Reaper Settings for macOS" /><published>2019-05-26T17:42:00-07:00</published><updated>2019-05-26T17:42:00-07:00</updated><id>/music-production/2019/05/26/reaper-settings</id><content type="html" xml:base="/music-production/2019/05/26/reaper-settings.html">&lt;h3 id=&quot;draft&quot;&gt;[DRAFT]&lt;/h3&gt;
 
-&lt;p&gt;I like Reaper. It’s funky – the most finished unfinished piece of
-software I’ve encountered. A basic installation, however, is not very
-usable, or at least not pleasantly so. These are my preferences.&lt;/p&gt;
+&lt;p&gt;I like Reaper. It’s funky — the most finished unfinished piece of
+software I’ve encountered. A basic installation, however, benefits
+from tailoring.&lt;/p&gt;
 
 &lt;h2 id=&quot;arrangement&quot;&gt;Arrangement&lt;/h2&gt;
 
-&lt;p&gt;The very first thing I do is right-click the transport and change
-&lt;em&gt;Docked transport position&lt;/em&gt; to &lt;em&gt;Top of main window&lt;/em&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;media-explorer&quot;&gt;Media Explorer&lt;/h3&gt;
+
+&lt;p&gt;The media explorer works well for me when it’s on the right side. Grab
+the panel’s tab and drag it there. On the default theme, I like the
+media explorer to occupy the entire right-hand side, even when the
+docked mixer is visible (toggle ⌘-M).&lt;/p&gt;
+
+&lt;h3 id=&quot;routing-matrix&quot;&gt;Routing Matrix&lt;/h3&gt;
+
+&lt;p&gt;Where goes the media explorer, so goes the routing matrix’s
+nation. Drag that over to the right-hand side, too.&lt;/p&gt;
+
+&lt;h3 id=&quot;transport&quot;&gt;Transport&lt;/h3&gt;
+
+&lt;p&gt;Right-click the transport and change
+&lt;strong&gt;&lt;em&gt;Docked transport position&lt;/em&gt;&lt;/strong&gt; to &lt;strong&gt;&lt;em&gt;Top of main window&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;shortcuts&quot;&gt;Shortcuts&lt;/h2&gt;
 
@@ -22,18 +36,18 @@ usable, or at least not pleasantly so. These are my preferences.&lt;/p&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;Quit&lt;/td&gt;
-      &lt;td&gt;Cmd-Q&lt;/td&gt;
+      &lt;td&gt;⌘-Q&lt;/td&gt;
       &lt;td&gt;The basic quit default.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Toggle Fullscreen&lt;/td&gt;
-      &lt;td&gt;Cmd-Ctrl-F&lt;/td&gt;
+      &lt;td&gt;⌃-⌘-F&lt;/td&gt;
       &lt;td&gt;The usual macOS fullscreen toggle.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;View: Scroll horizantally reversed&lt;/td&gt;
-      &lt;td&gt;HorizWheel (Trackpad horizontal drag)&lt;/td&gt;
-      &lt;td&gt;My preferred scroll setting.&lt;/td&gt;
+      &lt;td&gt;HorizWheel (two-finger drag)&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Undo&lt;/td&gt;
