@@ -1,198 +1,158 @@
-/* Mechanical Flight CSS */
-
-/* Heavy influence: https://github.com/edwardtufte/tufte-css */
-
-/* Colors 
-
-   Current color palette:
-   
-   #5d001e -- dark, for headlines
-   #e3e2df -- light background color
-   #e3afbc -- highlight, alternate bg
-   #9a1750 -- subheads
-   #ee4c7c -- emphasis, sub-subs
-*/
-@charset "UTF-8";
+/* Colors
+ * Current color palette:
+ *
+ * #5d001e -- dark, for headlines
+ * #e3e2df -- light background color
+ * #e3afbc -- highlight, alternate bg
+ * #9a1750 -- subheads
+ * #ee4c7c -- emphasis, sub-subs */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Vollkorn+SC&display=swap");
 html {
-    font-size: 18px;
-}
+  font-size: 18px; }
 
 a {
-    color: #5d001e;
-    text-decoration: none;
-}
-
-a:visited {
-    /*color: #9a1750;*/
-}
+  color: #5d001e;
+  text-decoration: none; }
 
 body {
-    background-color: #eae7dc;
-    counter-reset: sidenote-counter;
-    font-family: 'Open Sans', sans-serif;
-    line-height: 1.8em;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 1400px;
-    padding-left: 12.5%;
-    width: 87.5%;
-    counter-reset: sidenote-counter;
-}
+  background-color: #eae7dc;
+  counter-reset: sidenote-counter;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.8em;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1400px;
+  padding-left: 12.5%;
+  width: 87.5%;
+  counter-reset: sidenote-counter; }
 
 p {
-    color: black;
-}
+  color: black; }
 
 hr {
-    display: block;
-    width: 55%;
-    border: 0;
-    border-top: 1px solid #ccc;
-    margin: 1em 0;
-    padding: 0;
-}
+  display: block;
+  width: 55%;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0; }
 
 h1 {
-    color: #5d001e;
-    font-family: 'Playfair Display SC', serif;
-    font-size: 48px;
-    margin-top: 4rem;
-}
+  color: #5d001e;
+  font-family: "Vollkorn SC", serif;
+  font-size: 48px;
+  margin-top: 4rem; }
+
 article h1 {
-    color: #9a1750;
-}
+  color: #9a1750; }
 
 article {
-    width: 55%
-}
+  width: 55%; }
 
-section > p, 
-section > footer, 
-section > table { width: 100%; }
+section > p,
+section > footer,
+section > table {
+  width: 100%; }
 
 h1.site-title {
-    color: #5d001e;
-    margin-top: 10rem;
-}
+  color: #5d001e;
+  margin-top: 10rem; }
 
 h1.site-title + p {
-    margin-top: -0.8rem;
-}
+  margin-top: -0.8rem; }
 
 h6 {
-    margin-left: 0.1em;
-    margin-top: -1.1em;
-}
+  margin-left: 0.1em;
+  margin-top: -1.1em; }
 
 blockquote p {
-    margin-right: 40px;
-    width: 55%;
-}
+  margin-right: 40px;
+  width: 55%; }
 
 section.footer {
-    border-top: 1px solid #bbb;
-    margin-top: 3em;
-    margin-bottom: 3em;
-    border-top: 1px solid #ccc;
-    width: 55%;
-}
+  border-top: 1px solid #bbb;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  border-top: 1px solid #ccc;
+  width: 55%; }
 
 article {
-    margin-top: 3em;
-}
+  margin-top: 3em; }
 
 article h1 {
-    font-family: 'Playfair Display SC', serif;
-    font-size: 34px;
-    font-style: italic;
-}
+  font-family: "Vollkorn SC", serif;
+  font-size: 34px;
+  font-style: italic; }
 
 article h1 a {
-    color: #9a1750;
-}
+  color: #9a1750; }
 
 article h2 {
-    font-family: 'Playfair Display SC', serif;
-    font-size: 24px;
-}
+  font-family: "Vollkorn SC", serif;
+  font-size: 24px; }
 
 article table {
-    border-collapse: collapse;
-}
+  border-collapse: collapse; }
 
 article th {
-    background-color: #333;
-    color: white;
-    font-style: italic;
-}
+  background-color: #333;
+  color: white;
+  font-style: italic; }
 
 article td {
-    font-size: 16px;
-    padding: 6px;
-    vertical-align: top;
-}
+  font-size: 16px;
+  padding: 6px;
+  vertical-align: top; }
 
 article tr:nth-child(even) {
-    background-color: #666;
-    color: white;
-}
+  background-color: #666;
+  color: white; }
 
 h1.site-title + p {
-    font-size: 22px;
-    font-style: italic;
-}
+  font-size: 22px;
+  font-style: italic; }
 
 section.footer {
-    font-size: 14px;
-    line-height: 1.8em;
-}
+  font-size: 14px;
+  line-height: 1.8em; }
 
 blockquote p {
-    font-size: 1.1 rem;
-}
+  font-size: 1.1 rem; }
 
 blockquote footer {
-    width: 55%;
-    font-size: 1.1rem;
-    text-align: right;
-}
+  width: 55%;
+  font-size: 1.1rem;
+  text-align: right; }
 
 .comments {
-    margin-top: 40px;
-}
+  margin-top: 40px; }
 
 .sidenote {
-    float: right;
-    clear: right;
-    width: 50%;
-    margin-right: -60%;
-    margin-top: 0;
-    margin-bottom: 0;
-    font-size: 0.8rem;
-    line-height: 1.85;
-    vertical-align: baseline;
-    position: relative;
-}
-
-.sidenote-number { counter-increment: sidenote-counter; }
+  float: right;
+  clear: right;
+  width: 50%;
+  margin-right: -60%;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 0.8rem;
+  line-height: 1.85;
+  vertical-align: baseline;
+  position: relative; }
 
 .sidenote-number:after, .sidenote:before {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-style: italic;
-    position: relative;
-    vertical-align: baseline;
-}
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+  position: relative;
+  vertical-align: baseline; }
 
-.sidenote-number:after { 
-    content: counter(sidenote-counter);
-    font-size: 1rem;
-    top: -0.5rem;
-    left: 0.1rem; 
-}
+.sidenote-number:after {
+  content: counter(sidenote-counter);
+  font-size: 1rem;
+  top: -0.5rem;
+  left: 0.1rem; }
 
-.sidenote:before { 
-    counter-increment: sidenote-counter;
-    content: counter(sidenote-counter) " ";
-    font-size: .8rem;
-    top: -0.5rem; 
-}
+.sidenote:before {
+  counter-increment: sidenote-counter;
+  content: counter(sidenote-counter) " ";
+  font-size: 0.8rem;
+  top: -0.5rem; }
