@@ -36,6 +36,7 @@ body {
     max-width: 1400px;
     padding-left: 12.5%;
     width: 87.5%;
+    counter-reset: sidenote-counter;
 }
 
 p {
@@ -168,8 +169,30 @@ blockquote footer {
     margin-top: 0;
     margin-bottom: 0;
     font-size: 0.8rem;
-    line-height: 1.6;
+    line-height: 1.85;
     vertical-align: baseline;
     position: relative;
 }
 
+.sidenote-number { counter-increment: sidenote-counter; }
+
+.sidenote-number:after, .sidenote:before {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    position: relative;
+    vertical-align: baseline;
+}
+
+.sidenote-number:after { 
+    content: counter(sidenote-counter);
+    font-size: 1rem;
+    top: -0.5rem;
+    left: 0.1rem; 
+}
+
+.sidenote:before { 
+    counter-increment: sidenote-counter;
+    content: counter(sidenote-counter) " ";
+    font-size: .8rem;
+    top: -0.5rem; 
+}
