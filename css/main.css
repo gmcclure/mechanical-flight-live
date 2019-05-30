@@ -159,3 +159,17 @@ blockquote footer {
 .comments {
     margin-top: 40px;
 }
+
+.sidenote {
+    float: right;
+    clear: right;
+    width: 50%;
+    margin-right: -60%;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 0.8rem;
+    line-height: 1.6;
+    vertical-align: baseline;
+    position: relative;
+}
+

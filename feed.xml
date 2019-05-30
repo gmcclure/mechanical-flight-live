@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-05-29T08:21:23-07:00</updated><id>/feed.xml</id><title type="html">Mechanical Flight</title><subtitle>The headspace of Gregory J. McClure.</subtitle><entry><title type="html">Reaper Settings for macOS</title><link href="/music-production/2019/05/26/reaper-settings.html" rel="alternate" type="text/html" title="Reaper Settings for macOS" /><published>2019-05-26T17:42:00-07:00</published><updated>2019-05-26T17:42:00-07:00</updated><id>/music-production/2019/05/26/reaper-settings</id><content type="html" xml:base="/music-production/2019/05/26/reaper-settings.html">&lt;h3 id=&quot;draft&quot;&gt;[DRAFT]&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-05-29T22:18:41-07:00</updated><id>/feed.xml</id><title type="html">Mechanical Flight</title><subtitle>The headspace of Gregory J. McClure.</subtitle><entry><title type="html">Reaper Settings for macOS</title><link href="/music-production/2019/05/26/reaper-settings.html" rel="alternate" type="text/html" title="Reaper Settings for macOS" /><published>2019-05-26T17:42:00-07:00</published><updated>2019-05-26T17:42:00-07:00</updated><id>/music-production/2019/05/26/reaper-settings</id><content type="html" xml:base="/music-production/2019/05/26/reaper-settings.html">&lt;h3 id=&quot;draft&quot;&gt;[DRAFT]&lt;/h3&gt;
 
-&lt;p&gt;I like Reaper. It’s funky — the most finished unfinished piece of
-software I’ve encountered. A basic installation, however, benefits
+&lt;p&gt;I like Reaper. It’s funky — the most finished unfinished piece
+of software I’ve encountered. A basic installation, however, benefits
 from tailoring.&lt;/p&gt;
 
 &lt;h2 id=&quot;arrangement&quot;&gt;Arrangement&lt;/h2&gt;
@@ -74,8 +74,18 @@ nation. Drag that over to the right-hand side, too.&lt;/p&gt;
 
 &lt;h2 id=&quot;theme&quot;&gt;Theme&lt;/h2&gt;
 
-&lt;p&gt;For now, I’m often in the default theme. Used with track colors I prefer, it
-works fine. I’m also frequently using these, in order of preference:&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;sidenote&quot;&gt;Theming is probably a rabbit hole. I think
+(completely unscientifically) a theme’s greatest impact comes from the
+first 5 to 10 seconds of viewing, and then a user starts becoming
+accustomed to whatever’s in front of them, especially if whatever’s in
+front of them is useful. Reaper is often called out for not being
+pretty, but other DAWs are changing their look, subtly or
+dramatically, with every major version. Great design feels inevitable,
+but nothing’s ever finished.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;For now, I’m often in the default theme. Used with track colors I
+prefer, it works fine. I’m also frequently using these, in order of
+preference:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Janne2016_v104_digitalfixRemix&lt;/li&gt;
@@ -83,14 +93,7 @@ works fine. I’m also frequently using these, in order of preference:&lt;/p&gt;
   &lt;li&gt;Janne2016II_v10&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;But the default theme comes with a nice selection of layouts.&lt;/p&gt;
-
-&lt;p&gt;Theming is probably a rabbit hole. I think a theme’s greatest impact comes from
-the first 5 to 10 seconds of viewing, and then one starts to become accustomed
-to whatever’s in front of them, especially if whatever’s in front of them is
-useful. Reaper is often called out for not being pretty, but other DAWs are
-changing their look, subtly or dramatically, with every major version. So
-nothing’s final where usability is concerned.&lt;/p&gt;</content><author><name></name></author><category term="reaper" /><summary type="html">Notes on my preferred Reaper settings.</summary></entry><entry><title type="html">Antiode to the Heart</title><link href="/poems/2014/04/05/antiode-to-the-heart.html" rel="alternate" type="text/html" title="Antiode to the Heart" /><published>2014-04-05T01:00:00-07:00</published><updated>2014-04-05T01:00:00-07:00</updated><id>/poems/2014/04/05/antiode-to-the-heart</id><content type="html" xml:base="/poems/2014/04/05/antiode-to-the-heart.html">&lt;p&gt;My own is the telegraph of another’s&lt;br /&gt;
+&lt;p&gt;But the default theme comes with a nice selection of layouts.&lt;/p&gt;</content><author><name></name></author><category term="reaper" /><summary type="html">Notes on my preferred Reaper settings.</summary></entry><entry><title type="html">Antiode to the Heart</title><link href="/poems/2014/04/05/antiode-to-the-heart.html" rel="alternate" type="text/html" title="Antiode to the Heart" /><published>2014-04-05T01:00:00-07:00</published><updated>2014-04-05T01:00:00-07:00</updated><id>/poems/2014/04/05/antiode-to-the-heart</id><content type="html" xml:base="/poems/2014/04/05/antiode-to-the-heart.html">&lt;p&gt;My own is the telegraph of another’s&lt;br /&gt;
 will, the living text of foreign desire,&lt;br /&gt;
 copying news only ever copied&lt;br /&gt;
 imperfectly, original to no one,&lt;/p&gt;
