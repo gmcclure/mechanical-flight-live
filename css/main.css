@@ -33,7 +33,6 @@ h1 {
   color: #5d001e;
   font-family: "Vollkorn SC", serif;
   font-size: 48px;
-  margin-top: 4rem;
   text-decoration: none; }
 
 article p a {
@@ -42,7 +41,8 @@ article p a {
 article h1 {
   color: #9a1750;
   line-height: 1.4;
-  margin-bottom: 0.4rem; }
+  margin-bottom: 0.4rem;
+  margin-top: 4rem; }
 
 article {
   width: 55%; }
@@ -59,6 +59,7 @@ h1.site-title {
   margin-bottom: 1.4rem; }
 
 h1.site-title + p {
+  margin-bottom: 6rem;
   margin-top: -0.8rem; }
 
 h3 {
