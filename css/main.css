@@ -76,9 +76,11 @@ h3 {
   margin-bottom: 1.4rem;
   line-height: 1; }
 
-h6 {
+div.particulars {
+  font-size: 14px;
   margin-left: 0.1em;
-  margin-top: -1.1em; }
+  margin-top: -1.1em;
+  margin-bottom: 1rem; }
 
 blockquote p {
   margin-right: 40px;
