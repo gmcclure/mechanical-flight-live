@@ -6,7 +6,7 @@
  * #e3afbc -- highlight, alternate bg
  * #9a1750 -- subheads
  * #ee4c7c -- emphasis, sub-subs */
-@import url("https://fonts.googleapis.com/css?family=Open+Sans|Vollkorn+SC&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i|Vollkorn+SC|Vollkorn:400,400i&display=swap");
 html {
   font-size: 18px; }
 
@@ -16,6 +16,7 @@ a {
 
 body {
   background-color: #eae7dc;
+  color: #222;
   counter-reset: sidenote-counter;
   font-family: "Open Sans", sans-serif;
   line-height: 1.8em;
@@ -23,11 +24,10 @@ body {
   margin-right: auto;
   max-width: 1400px;
   padding-left: 12.5%;
-  width: 87.5%;
-  counter-reset: sidenote-counter; }
+  width: 87.5%; }
 
 p {
-  color: black; }
+  color: #222; }
 
 hr {
   display: block;
@@ -41,10 +41,16 @@ h1 {
   color: #5d001e;
   font-family: "Vollkorn SC", serif;
   font-size: 48px;
-  margin-top: 4rem; }
+  margin-top: 4rem;
+  text-decoration: none; }
+
+article p a {
+  text-decoration: underline; }
 
 article h1 {
-  color: #9a1750; }
+  color: #9a1750;
+  line-height: 1.4;
+  margin-bottom: 0.4rem; }
 
 article {
   width: 55%; }
@@ -60,6 +66,14 @@ h1.site-title {
 
 h1.site-title + p {
   margin-top: -0.8rem; }
+
+h3 {
+  font-family: "Vollkorn", serif;
+  font-style: italic;
+  font-weight: normal;
+  margin-top: 2.1rem;
+  margin-bottom: 1.4rem;
+  line-height: 1; }
 
 h6 {
   margin-left: 0.1em;
@@ -156,3 +170,18 @@ blockquote footer {
   content: counter(sidenote-counter) " ";
   font-size: 0.8rem;
   top: -0.5rem; }
+
+@media (max-width: 760px) {
+  body {
+    width: 84%;
+    padding-left: 8%;
+    padding-right: 8%; }
+
+  hr, article,
+  blockquote p,
+  section.footer,
+  blockquote footer {
+    width: 100%; }
+
+  .sidenote {
+    display: none; } }
