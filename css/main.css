@@ -189,7 +189,14 @@ nav.top {
 
 nav.top li {
   display: inline;
+  font-variant: small-caps;
   margin-left: 20px; }
+
+nav.top li a {
+  color: #5d001e; }
+
+nav.top li a:hover {
+  border-top: 1px solid #5d001e; }
 
 @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
   body {
