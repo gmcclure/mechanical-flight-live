@@ -16,6 +16,7 @@ body {
   margin-right: auto;
   max-width: 1400px;
   padding-left: 12.5%;
+  text-rendering: optimizelegibility;
   width: 87.5%; }
 
 p {
