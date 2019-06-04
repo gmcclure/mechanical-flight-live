@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-06-03T16:28:09-07:00</updated><id>/feed.xml</id><title type="html">Mechanical Flight</title><subtitle>The headspace of Gregory J. McClure.</subtitle><entry><title type="html">Heidegger’s Language in the Poem</title><link href="/reading-notes/heidegger-language-in-the-poem.html" rel="alternate" type="text/html" title="Heidegger&amp;rsquo;s Language in the Poem" /><published>2019-05-28T17:42:00-07:00</published><updated>2019-05-28T17:42:00-07:00</updated><id>/reading-notes/heidegger-language-in-the-poem</id><content type="html" xml:base="/reading-notes/heidegger-language-in-the-poem.html">&lt;h3 id=&quot;ongoing&quot;&gt;[ONGOING]&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-06-04T11:59:16-07:00</updated><id>/feed.xml</id><title type="html">Mechanical Flight</title><subtitle>The headspace of Gregory J. McClure.</subtitle><entry><title type="html">Heidegger’s Language in the Poem</title><link href="/reading-notes/heidegger-language-in-the-poem.html" rel="alternate" type="text/html" title="Heidegger&amp;rsquo;s Language in the Poem" /><published>2019-05-28T17:42:00-07:00</published><updated>2019-05-28T17:42:00-07:00</updated><id>/reading-notes/heidegger-language-in-the-poem</id><content type="html" xml:base="/reading-notes/heidegger-language-in-the-poem.html">&lt;h3 id=&quot;ongoing&quot;&gt;[ONGOING]&lt;/h3&gt;
 
 &lt;p&gt;My reading group comprises three others and myself, separated by three
 successive time zones. We’re meeting once weekly via Skype to arrive at
@@ -24,11 +24,11 @@ sandwich, not a theoretical one.&lt;/span&gt;&lt;/label&gt;&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.nybooks.com/daily/2017/08/01/mysterious-music-georg-trakl/&quot;&gt;The Mysterious Music of Georg Trakl&lt;/a&gt;, NYR Daily post&lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><category term="heidegger" /><summary type="html">A few notes on a reading of Heidegger&amp;rsquo;s Language in the Poem from On the Way to Language.</summary></entry><entry><title type="html">Reaper Settings for macOS</title><link href="/music-production/reaper-settings.html" rel="alternate" type="text/html" title="Reaper Settings for macOS" /><published>2019-05-26T17:42:00-07:00</published><updated>2019-05-26T17:42:00-07:00</updated><id>/music-production/reaper-settings</id><content type="html" xml:base="/music-production/reaper-settings.html">&lt;h3 id=&quot;draft&quot;&gt;[DRAFT]&lt;/h3&gt;
 
-&lt;p&gt;I like &lt;a href=&quot;https://reaper.fm&quot;&gt;Reaper&lt;/a&gt;. It’s funky — the most finished unfinished piece
-of software I’ve encountered. A basic installation, however, benefits
-from tailoring.&lt;/p&gt;
+&lt;p&gt;I really like &lt;a href=&quot;https://reaper.fm&quot;&gt;Reaper&lt;/a&gt;. It’s great and funky and
+strangely hackable. A basic installation, however, benefits from
+tailoring.&lt;/p&gt;
 
-&lt;h2 id=&quot;arrangement&quot;&gt;Arrangement&lt;/h2&gt;
+&lt;h2 id=&quot;panel-arrangement&quot;&gt;Panel Arrangement&lt;/h2&gt;
 
 &lt;h3 id=&quot;media-explorer&quot;&gt;Media Explorer&lt;/h3&gt;
 
@@ -46,6 +46,23 @@ nation. Drag that over to the right-hand side, too.&lt;/p&gt;
 
 &lt;p&gt;Right-click the transport and change
 &lt;strong&gt;&lt;em&gt;Docked transport position&lt;/em&gt;&lt;/strong&gt; to &lt;strong&gt;&lt;em&gt;Top of main window&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;preferences&quot;&gt;Preferences&lt;/h2&gt;
+
+&lt;h3 id=&quot;general&quot;&gt;General&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Turn off item selection for undo. Leave time selection on.&lt;/li&gt;
+  &lt;li&gt;Under &lt;strong&gt;&lt;em&gt;Advanced UI/system settings&lt;/em&gt;&lt;/strong&gt;, enable &lt;strong&gt;&lt;em&gt;Allow snap grid
+… to stay open&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tracksend-defaults&quot;&gt;Track/Send Defaults&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Turn on input monitoring for record config.&lt;/li&gt;
+  &lt;li&gt;Set &lt;strong&gt;&lt;em&gt;Send default gain&lt;/em&gt;&lt;/strong&gt; to &lt;strong&gt;&lt;em&gt;-inf&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;shortcuts&quot;&gt;Shortcuts&lt;/h2&gt;
 
