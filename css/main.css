@@ -107,18 +107,17 @@ article table {
   border-collapse: collapse; }
 
 article th {
-  background-color: #333;
-  color: white;
-  font-style: italic; }
+  border-bottom: 1px dotted black;
+  font-style: italic;
+  text-align: left; }
 
 article td {
   font-size: 16px;
   padding: 6px;
   vertical-align: top; }
 
-article tr:nth-child(even) {
-  background-color: #666;
-  color: white; }
+article tr:nth-child(3n) {
+  border-bottom: 1px dashed #888; }
 
 h1.site-title + p {
   font-size: 22px;
