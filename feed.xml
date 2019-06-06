@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-06-05T10:53:39-07:00</updated><id>/feed.xml</id><title type="html">Mechanical Flight</title><subtitle>The headspace of Gregory J. McClure.</subtitle><entry><title type="html">Heidegger’s Language in the Poem</title><link href="/reading-notes/heidegger-language-in-the-poem.html" rel="alternate" type="text/html" title="Heidegger&amp;rsquo;s Language in the Poem" /><published>2019-05-28T17:42:00-07:00</published><updated>2019-05-28T17:42:00-07:00</updated><id>/reading-notes/heidegger-language-in-the-poem</id><content type="html" xml:base="/reading-notes/heidegger-language-in-the-poem.html">&lt;h3 id=&quot;ongoing&quot;&gt;[ONGOING]&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-06-06T14:19:54-07:00</updated><id>/feed.xml</id><title type="html">Mechanical Flight</title><subtitle>The headspace of Gregory J. McClure.</subtitle><entry><title type="html">Heidegger’s Language in the Poem and How Sweet It Is</title><link href="/reading-notes/heidegger-language-in-the-poem.html" rel="alternate" type="text/html" title="Heidegger&amp;rsquo;s Language in the Poem and How Sweet It Is" /><published>2019-05-28T17:42:00-07:00</published><updated>2019-05-28T17:42:00-07:00</updated><id>/reading-notes/heidegger-language-in-the-poem</id><content type="html" xml:base="/reading-notes/heidegger-language-in-the-poem.html">&lt;h3 id=&quot;ongoing&quot;&gt;[ONGOING]&lt;/h3&gt;
 
 &lt;p&gt;My reading group comprises three others and myself, separated by three
 successive time zones. We’re meeting once weekly via Skype to arrive at
@@ -78,7 +78,7 @@ nation. Drag that over to the right-hand side, too.&lt;/p&gt;
 
 &lt;h2 id=&quot;shortcuts&quot;&gt;Shortcuts&lt;/h2&gt;
 
-&lt;table&gt;
+&lt;table class=&quot;fullwidth&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th&gt;Action&lt;/th&gt;
@@ -98,7 +98,7 @@ nation. Drag that over to the right-hand side, too.&lt;/p&gt;
       &lt;td&gt;The usual macOS fullscreen toggle.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;View: Scroll horizantally reversed&lt;/td&gt;
+      &lt;td&gt;View: Scroll horiz reversed&lt;/td&gt;
       &lt;td&gt;HorizWheel (two-finger drag)&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
@@ -108,12 +108,12 @@ nation. Drag that over to the right-hand side, too.&lt;/p&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Cut (focus-dependent, within time sel)&lt;/td&gt;
+      &lt;td&gt;Cut (focus-dep, within time sel)&lt;/td&gt;
       &lt;td&gt;X&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Copy (focus-dependent, within time sel)&lt;/td&gt;
+      &lt;td&gt;Copy (focus-dep, within time sel)&lt;/td&gt;
       &lt;td&gt;C&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
