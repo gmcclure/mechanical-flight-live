@@ -50,7 +50,6 @@ article.post h1 {
   width: 55%; }
 
 section > p,
-section > footer,
 section > table,
 article.listing {
   width: 55%; }
@@ -90,8 +89,7 @@ section.footer {
   border-top: 1px solid #bbb;
   margin-top: 3em;
   margin-bottom: 3em;
-  border-top: 1px solid #ccc;
-  width: 55%; }
+  border-top: 1px solid #ccc; }
 
 article {
   margin-top: 3em; }
