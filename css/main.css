@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i|Vollkorn+SC|Vollkorn:400,400i&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Space+Mono:400,400i&display=swap");
 html {
-  font-size: 18px; }
+  font-size: 14pt; }
 
 a {
   color: #5d001e;
@@ -12,7 +12,7 @@ body {
   color: #222;
   counter-reset: sidenote-counter;
   font-family: "Open Sans", sans-serif;
-  line-height: 1.8em;
+  line-height: 1.8rem;
   margin-left: auto;
   margin-right: auto;
   max-width: 1400px;
@@ -35,7 +35,12 @@ h1 {
   color: #5d001e;
   font-family: "Vollkorn SC", serif;
   font-size: 48px;
+  margin-top: 4rem;
   text-decoration: none; }
+
+h2 {
+  margin-top: 2.1rem;
+  margin-bottom: 1.5rem; }
 
 article p a {
   text-decoration: underline; }
@@ -43,8 +48,7 @@ article p a {
 article h1 {
   color: #9a1750;
   line-height: 1.4;
-  margin-bottom: 0.4rem;
-  margin-top: 4rem; }
+  margin-bottom: 0.4rem; }
 
 article.post h1 {
   width: 55%; }
@@ -245,8 +249,12 @@ nav ul ul:hover {
     padding-right: 8%; }
 
   hr, article,
-  blockquote p,
+  article.listing,
+  article.post h1,
+  section > p,
+  section > table,
   section.footer,
+  blockquote p,
   blockquote footer {
     width: 100%; }
 
@@ -273,8 +281,12 @@ nav ul ul:hover {
     padding-right: 8%; }
 
   hr, article,
-  blockquote p,
+  article.listing,
+  article.post h1,
+  section > p,
+  section > table,
   section.footer,
+  blockquote p,
   blockquote footer {
     width: 100%; }
 
