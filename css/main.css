@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i|Vollkorn+SC|Vollkorn:400,400i&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Space+Mono:400,400i&display=swap");
 html {
-  font-size: 14pt; }
+  font-size: 18px; }
 
 a {
   color: #5d001e;
@@ -75,7 +75,7 @@ h3 {
   font-family: "Vollkorn", serif;
   font-style: italic;
   font-weight: normal;
-  margin-top: 1.6rem;
+  margin-top: 1.8rem;
   margin-bottom: 1rem;
   line-height: 1; }
 
