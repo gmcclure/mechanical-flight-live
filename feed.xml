@@ -1,4 +1,130 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-07-23T22:42:08-07:00</updated><id>/feed.xml</id><title type="html">Mechanical Flight</title><subtitle>The headspace of Gregory J. McClure.</subtitle><entry><title type="html">Antiode to the Heart</title><link href="/poetry/antiode-to-the-heart.html" rel="alternate" type="text/html" title="Antiode to the Heart" /><published>2014-04-05T01:00:00-07:00</published><updated>2014-04-05T01:00:00-07:00</updated><id>/poetry/antiode-to-the-heart</id><content type="html" xml:base="/poetry/antiode-to-the-heart.html">&lt;p&gt;My own is the telegraph of another’s&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-10-31T10:48:00-07:00</updated><id>/feed.xml</id><title type="html">Mechanical Flight</title><subtitle>The headspace of Gregory J. McClure.</subtitle><entry><title type="html">Reaper Settings for macOS</title><link href="/music-production/reaper-settings.html" rel="alternate" type="text/html" title="Reaper Settings for macOS" /><published>2019-05-26T17:42:00-07:00</published><updated>2019-05-26T17:42:00-07:00</updated><id>/music-production/reaper-settings</id><content type="html" xml:base="/music-production/reaper-settings.html">&lt;h3 id=&quot;draft&quot;&gt;[DRAFT]&lt;/h3&gt;
+
+&lt;p&gt;I really like &lt;a href=&quot;https://reaper.fm&quot;&gt;Reaper&lt;/a&gt;. It’s powerful and funky and
+strangely hackable. A basic installation, however, benefits from
+tailoring.&lt;/p&gt;
+
+&lt;h2 id=&quot;panel-arrangement&quot;&gt;Panel Arrangement&lt;/h2&gt;
+
+&lt;h3 id=&quot;media-explorer&quot;&gt;Media Explorer&lt;/h3&gt;
+
+&lt;p&gt;The media explorer works well for me when it’s on the right side. Make
+it appear with ⌥-⌘-X, and then grab the panel’s tab and
+drag it there. On the default theme, I like the media explorer to
+occupy the entire right-hand side, even when the docked mixer is
+visible (toggle ⌘-M).&lt;/p&gt;
+
+&lt;h3 id=&quot;routing-matrix&quot;&gt;Routing Matrix&lt;/h3&gt;
+
+&lt;p&gt;Where goes the media explorer, so goes the routing matrix’s
+(⌥-R) nation. Drag that over to the right-hand side, too.&lt;/p&gt;
+
+&lt;h3 id=&quot;transport&quot;&gt;Transport&lt;/h3&gt;
+
+&lt;p&gt;Right-click the transport (not the buttons, but just within the
+general transport area) and change &lt;strong&gt;&lt;em&gt;Docked transport position&lt;/em&gt;&lt;/strong&gt; to
+&lt;strong&gt;&lt;em&gt;Top of main window&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;preferences&quot;&gt;Preferences&lt;/h2&gt;
+
+&lt;h3 id=&quot;general&quot;&gt;General&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Turn off item selection for undo. Leave time selection on.&lt;/li&gt;
+  &lt;li&gt;Under &lt;strong&gt;&lt;em&gt;Advanced UI/system settings&lt;/em&gt;&lt;/strong&gt;, enable &lt;strong&gt;&lt;em&gt;Allow snap grid
+… to stay open&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;project--tracksend-defaults&quot;&gt;Project :: Track/Send Defaults&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Turn on input monitoring for record config.&lt;/li&gt;
+  &lt;li&gt;Set &lt;strong&gt;&lt;em&gt;Send default gain&lt;/em&gt;&lt;/strong&gt; to &lt;strong&gt;&lt;em&gt;-inf&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;audio--mutesolo&quot;&gt;Audio :: Mute/Solo&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Set &lt;strong&gt;&lt;em&gt;Automatically mute master track&lt;/em&gt;&lt;/strong&gt; to &lt;strong&gt;&lt;em&gt;+18db&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;audio--seeking&quot;&gt;Audio :: Seeking&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Set &lt;strong&gt;&lt;em&gt;Seek playback on item move/size/fade adjustment, pre-roll:
+1000ms&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;shortcuts&quot;&gt;Shortcuts&lt;/h2&gt;
+
+&lt;table class=&quot;fullwidth&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Action&lt;/th&gt;
+      &lt;th&gt;Shortcut&lt;/th&gt;
+      &lt;th&gt;Notes&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Quit&lt;/td&gt;
+      &lt;td&gt;⌘-Q&lt;/td&gt;
+      &lt;td&gt;The basic quit default.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Toggle Fullscreen&lt;/td&gt;
+      &lt;td&gt;⌃-⌘-F&lt;/td&gt;
+      &lt;td&gt;The usual macOS fullscreen toggle.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;View: Scroll horiz reversed&lt;/td&gt;
+      &lt;td&gt;HorizWheel (two-finger drag)&lt;/td&gt;
+      &lt;td&gt;The macOS default drag direction.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Copy (focus-dep, within time sel)&lt;/td&gt;
+      &lt;td&gt;C&lt;/td&gt;
+      &lt;td&gt;Easy, fast C-CUP shortcuts.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cut (focus-dep, within time sel)&lt;/td&gt;
+      &lt;td&gt;X&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Paste items/tracks&lt;/td&gt;
+      &lt;td&gt;V&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Undo&lt;/td&gt;
+      &lt;td&gt;Z&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;theme&quot;&gt;Theme&lt;/h2&gt;
+
+&lt;p&gt;&lt;label for=&quot;mn-rabbit-hole&quot; class=&quot;margin-toggle&quot;&gt;⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;mn-rabbit-hole&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;Theming is probably a rabbit hole. I think (completely
+unscientifically) a theme’s greatest impact comes from the first 5 to 10
+seconds of viewing, and then a user starts becoming accustomed to whatever’s in
+front of them — if whatever’s in front of them is useful. Reaper is often
+called out for not being pretty, but other DAWs are changing their skin, subtly
+or dramatically, with every major version. Nothing’s ever finished. Theme your
+hours away.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;For now, I’m often in the default theme. Used with track colors I
+prefer, it works fine. I’m also frequently using these, in order of
+preference:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Janne2016_v104_digitalfixRemix&lt;/li&gt;
+  &lt;li&gt;Janne2014 EZ Mod 2 Flat&lt;/li&gt;
+  &lt;li&gt;Janne2016II_v10&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But the default theme comes with a nice selection of layouts.&lt;/p&gt;</content><author><name></name></author><category term="reaper" /><summary type="html">Notes on my preferred Reaper settings.</summary></entry><entry><title type="html">Antiode to the Heart</title><link href="/poetry/antiode-to-the-heart.html" rel="alternate" type="text/html" title="Antiode to the Heart" /><published>2014-04-05T01:00:00-07:00</published><updated>2014-04-05T01:00:00-07:00</updated><id>/poetry/antiode-to-the-heart</id><content type="html" xml:base="/poetry/antiode-to-the-heart.html">&lt;p&gt;My own is the telegraph of another’s&lt;br /&gt;
 will, the living text of foreign desire,&lt;br /&gt;
 copying news only ever copied&lt;br /&gt;
 imperfectly, original to no one,&lt;/p&gt;
