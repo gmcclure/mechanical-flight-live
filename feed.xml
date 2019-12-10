@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-11-02T12:40:50-07:00</updated><id>/feed.xml</id><title type="html">Mechanical Flight</title><subtitle>The headspace of Gregory J. McClure.</subtitle><entry><title type="html">Reaper Settings for macOS</title><link href="/music-production/reaper-settings.html" rel="alternate" type="text/html" title="Reaper Settings for macOS" /><published>2019-05-26T17:42:00-07:00</published><updated>2019-05-26T17:42:00-07:00</updated><id>/music-production/reaper-settings</id><content type="html" xml:base="/music-production/reaper-settings.html">&lt;h3 id=&quot;draft&quot;&gt;[DRAFT]&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-12-10T12:54:07-08:00</updated><id>/feed.xml</id><title type="html">Mechanical Flight</title><subtitle>The headspace of Gregory J. McClure.</subtitle><entry><title type="html">Reaper Settings for macOS</title><link href="/music-production/reaper-settings.html" rel="alternate" type="text/html" title="Reaper Settings for macOS" /><published>2019-05-26T17:42:00-07:00</published><updated>2019-05-26T17:42:00-07:00</updated><id>/music-production/reaper-settings</id><content type="html" xml:base="/music-production/reaper-settings.html">&lt;h3 id=&quot;last-update-december-10-2019&quot;&gt;Last Update: December 10, 2019&lt;/h3&gt;
 
 &lt;p&gt;I really like &lt;a href=&quot;https://reaper.fm&quot;&gt;Reaper&lt;/a&gt;. It’s powerful and funky and
 strangely hackable. A basic installation, however, benefits from
@@ -48,6 +48,12 @@ general transport area) and change &lt;strong&gt;&lt;em&gt;Docked transport posi
   &lt;li&gt;Set &lt;strong&gt;&lt;em&gt;Automatically mute master track&lt;/em&gt;&lt;/strong&gt; to &lt;strong&gt;&lt;em&gt;+18db&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h3 id=&quot;audio--recording&quot;&gt;Audio :: Recording&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Unset &lt;strong&gt;&lt;em&gt;Start new files every …&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h3 id=&quot;audio--seeking&quot;&gt;Audio :: Seeking&lt;/h3&gt;
 
 &lt;ul&gt;
@@ -59,6 +65,30 @@ general transport area) and change &lt;strong&gt;&lt;em&gt;Docked transport posi
 
 &lt;ul&gt;
   &lt;li&gt;Turn on &lt;strong&gt;&lt;em&gt;In loop recording, discard incomplete …&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;media&quot;&gt;Media&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Turn on &lt;strong&gt;&lt;em&gt;Put new peaks files in peaks/ subfolder …&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;project-settings&quot;&gt;Project Settings&lt;/h2&gt;
+
+&lt;p&gt;These are saved as default project settings.&lt;/p&gt;
+
+&lt;h3 id=&quot;project-settings-1&quot;&gt;Project Settings&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Playback resample mode: HQ&lt;/li&gt;
+  &lt;li&gt;Render resample mode: Extreme HQ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;media-1&quot;&gt;Media&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Path to save media files: media&lt;/li&gt;
+  &lt;li&gt;Secondary recording path: media-alt&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;shortcuts&quot;&gt;Shortcuts&lt;/h2&gt;
@@ -118,7 +148,14 @@ seconds of viewing, and then a user starts becoming accustomed to whatever’s i
 front of them — if whatever’s in front of them is useful. Reaper is often
 called out for not being pretty, but other DAWs are changing their skin, subtly
 or dramatically, with every major version. Nothing’s ever finished. Theme your
-hours away.&lt;/span&gt;&lt;/p&gt;
+life away.&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;post-6-theme-preferences&quot;&gt;Post-6 Theme Preferences&lt;/h2&gt;
+
+&lt;p&gt;I stick with the default. It’s a real improvement and very close to my
+pre-6 preferences anyway.&lt;/p&gt;
+
+&lt;h2 id=&quot;pre-6-theme-preferences&quot;&gt;Pre-6 Theme Preferences&lt;/h2&gt;
 
 &lt;p&gt;For now, I’m often in the default theme. Used with track colors I
 prefer, it works fine. I’m also frequently using these, in order of
