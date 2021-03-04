@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-03-04T08:52:01-08:00</updated><id>/feed.xml</id><title type="html">Mechanical Flight</title><subtitle>The headspace of Gregory J. McClure.</subtitle><entry><title type="html">Reaper Settings for macOS</title><link href="/music-production/reaper-settings.html" rel="alternate" type="text/html" title="Reaper Settings for macOS" /><published>2019-05-26T17:42:00-07:00</published><updated>2019-05-26T17:42:00-07:00</updated><id>/music-production/reaper-settings</id><content type="html" xml:base="/music-production/reaper-settings.html">&lt;h3 id=&quot;last-update-march-4-2021&quot;&gt;Last Update: March 4, 2021&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-03-04T09:22:48-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mechanical Flight</title><subtitle>The headspace of Gregory J. McClure.</subtitle><entry><title type="html">Reaper Settings for macOS</title><link href="http://localhost:4000/music-production/reaper-settings.html" rel="alternate" type="text/html" title="Reaper Settings for macOS" /><published>2019-05-26T17:42:00-07:00</published><updated>2019-05-26T17:42:00-07:00</updated><id>http://localhost:4000/music-production/reaper-settings</id><content type="html" xml:base="http://localhost:4000/music-production/reaper-settings.html">&lt;h3 id=&quot;last-update-march-4-2021&quot;&gt;Last Update: March 4, 2021&lt;/h3&gt;
 
 &lt;p&gt;I really like &lt;a href=&quot;https://reaper.fm&quot;&gt;Reaper&lt;/a&gt;. It’s powerful and funky and
 strangely hackable. A basic installation, however, benefits from
@@ -109,6 +109,12 @@ general transport area) and change &lt;strong&gt;&lt;em&gt;Docked transport posi
   &lt;li&gt;Secondary recording path: media-alt&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h3 id=&quot;plug-ins&quot;&gt;Plug-ins&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Turn off &lt;em&gt;Show comment field above FX UI&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&quot;shortcuts&quot;&gt;Shortcuts&lt;/h2&gt;
 
 &lt;table class=&quot;fullwidth&quot;&gt;
@@ -185,7 +191,7 @@ preference:&lt;/p&gt;
   &lt;li&gt;Janne2016II_v10&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;But the default theme comes with a nice selection of layouts.&lt;/p&gt;</content><author><name></name></author><category term="reaper" /><summary type="html">Notes on my preferred Reaper settings.</summary></entry><entry><title type="html">Antiode to the Heart</title><link href="/poetry/antiode-to-the-heart.html" rel="alternate" type="text/html" title="Antiode to the Heart" /><published>2014-04-05T01:00:00-07:00</published><updated>2014-04-05T01:00:00-07:00</updated><id>/poetry/antiode-to-the-heart</id><content type="html" xml:base="/poetry/antiode-to-the-heart.html">&lt;p&gt;My own is the telegraph of another’s&lt;br /&gt;
+&lt;p&gt;But the default theme comes with a nice selection of layouts.&lt;/p&gt;</content><author><name></name></author><category term="reaper" /><summary type="html">Notes on my preferred Reaper settings.</summary></entry><entry><title type="html">Antiode to the Heart</title><link href="http://localhost:4000/poetry/antiode-to-the-heart.html" rel="alternate" type="text/html" title="Antiode to the Heart" /><published>2014-04-05T01:00:00-07:00</published><updated>2014-04-05T01:00:00-07:00</updated><id>http://localhost:4000/poetry/antiode-to-the-heart</id><content type="html" xml:base="http://localhost:4000/poetry/antiode-to-the-heart.html">&lt;p&gt;My own is the telegraph of another’s&lt;br /&gt;
 will, the living text of foreign desire,&lt;br /&gt;
 copying news only ever copied&lt;br /&gt;
 imperfectly, original to no one,&lt;/p&gt;
@@ -208,7 +214,7 @@ of dust in space, intending of themselves&lt;/p&gt;
 &lt;p&gt;to be apart, find in their shared disdain&lt;br /&gt;
 a trust, and, pressing close, begin to burn.&lt;br /&gt;
 We’re born of what is made within this rending.&lt;br /&gt;
-It isn’t love that is unending.&lt;/p&gt;</content><author><name></name></author><summary type="html">My own is the telegraph of another&amp;#8217;s will, the living text of foreign desire, copying news only ever copied imperfectly, original to no&amp;nbsp;one &amp;hellip;</summary></entry><entry><title type="html">Two-Wolf Variations</title><link href="/prose/two-wolf-variations.html" rel="alternate" type="text/html" title="Two-Wolf Variations" /><published>2013-06-01T01:00:00-07:00</published><updated>2013-06-01T01:00:00-07:00</updated><id>/prose/two-wolf-variations</id><content type="html" xml:base="/prose/two-wolf-variations.html">&lt;p&gt;“A fight is raging inside me,” said an old man to his son. “It
+It isn’t love that is unending.&lt;/p&gt;</content><author><name></name></author><summary type="html">My own is the telegraph of another&amp;#8217;s will, the living text of foreign desire, copying news only ever copied imperfectly, original to no&amp;nbsp;one &amp;hellip;</summary></entry><entry><title type="html">Two-Wolf Variations</title><link href="http://localhost:4000/prose/two-wolf-variations.html" rel="alternate" type="text/html" title="Two-Wolf Variations" /><published>2013-06-01T01:00:00-07:00</published><updated>2013-06-01T01:00:00-07:00</updated><id>http://localhost:4000/prose/two-wolf-variations</id><content type="html" xml:base="http://localhost:4000/prose/two-wolf-variations.html">&lt;p&gt;“A fight is raging inside me,” said an old man to his son. “It
 is a terrible fight between two wolves. One wolf is darkness, rage,
 grief. The other is good: compassion, peace, and love. The same fight is
 going on inside you.”&lt;/p&gt;
@@ -340,7 +346,7 @@ Day, honey.”&lt;/p&gt;
 
 &lt;p&gt;“Everyone knows wolves love nachos,” the old man growled. He
 sampled one. Chipot-olé! And she’d found his favorite queso Oaxaca. He
-felt full. Whole. He wolfed them down.&lt;/p&gt;</content><author><name></name></author><summary type="html">Riffs in the key of Two Wolves &amp;hellip;</summary></entry><entry><title type="html">For Jazz</title><link href="/poetry/for-jazz.html" rel="alternate" type="text/html" title="For Jazz" /><published>2006-11-01T00:00:00-08:00</published><updated>2006-11-01T00:00:00-08:00</updated><id>/poetry/for-jazz</id><content type="html" xml:base="/poetry/for-jazz.html">&lt;p&gt;I ride, Night Train, down Lankershim,&lt;br /&gt;
+felt full. Whole. He wolfed them down.&lt;/p&gt;</content><author><name></name></author><summary type="html">Riffs in the key of Two Wolves &amp;hellip;</summary></entry><entry><title type="html">For Jazz</title><link href="http://localhost:4000/poetry/for-jazz.html" rel="alternate" type="text/html" title="For Jazz" /><published>2006-11-01T00:00:00-08:00</published><updated>2006-11-01T00:00:00-08:00</updated><id>http://localhost:4000/poetry/for-jazz</id><content type="html" xml:base="http://localhost:4000/poetry/for-jazz.html">&lt;p&gt;I ride, Night Train, down Lankershim,&lt;br /&gt;
 in black boots and leather, and&lt;br /&gt;
 shooting Knob Creek with riders&lt;br /&gt;
 telling history in pictures&lt;br /&gt;
