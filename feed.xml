@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-08-26T11:10:25-07:00</updated><id>/feed.xml</id><title type="html">Mechanical Flight</title><subtitle>The headspace of Gregory J. McClure.</subtitle><entry><title type="html">Reaper Settings for macOS</title><link href="/music-production/reaper-settings.html" rel="alternate" type="text/html" title="Reaper Settings for macOS" /><published>2019-05-26T17:42:00-07:00</published><updated>2019-05-26T17:42:00-07:00</updated><id>/music-production/reaper-settings</id><content type="html" xml:base="/music-production/reaper-settings.html">&lt;h3 id=&quot;last-update-december-10-2019&quot;&gt;Last Update: December 10, 2019&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-03-04T08:52:01-08:00</updated><id>/feed.xml</id><title type="html">Mechanical Flight</title><subtitle>The headspace of Gregory J. McClure.</subtitle><entry><title type="html">Reaper Settings for macOS</title><link href="/music-production/reaper-settings.html" rel="alternate" type="text/html" title="Reaper Settings for macOS" /><published>2019-05-26T17:42:00-07:00</published><updated>2019-05-26T17:42:00-07:00</updated><id>/music-production/reaper-settings</id><content type="html" xml:base="/music-production/reaper-settings.html">&lt;h3 id=&quot;last-update-march-4-2021&quot;&gt;Last Update: March 4, 2021&lt;/h3&gt;
 
 &lt;p&gt;I really like &lt;a href=&quot;https://reaper.fm&quot;&gt;Reaper&lt;/a&gt;. It’s powerful and funky and
 strangely hackable. A basic installation, however, benefits from
@@ -35,6 +35,23 @@ general transport area) and change &lt;strong&gt;&lt;em&gt;Docked transport posi
 … to stay open&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h3 id=&quot;general--paths&quot;&gt;General :: Paths&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Set &lt;em&gt;Default path to save new projects&lt;/em&gt; to something suitable&lt;/li&gt;
+  &lt;li&gt;Set &lt;em&gt;Default recording path, when project is unsaved&lt;/em&gt; to somewhere tmp-ish&lt;/li&gt;
+  &lt;li&gt;Set the &lt;em&gt;alternate path&lt;/em&gt; to something similarly tmp-ish&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;project&quot;&gt;Project&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Make sure &lt;em&gt;Save project file references with relative pathnames&lt;/em&gt; is checked&lt;/li&gt;
+  &lt;li&gt;Make sure &lt;em&gt;When overwriting project file, rename old projects to .rpp-bak&lt;/em&gt; is checked&lt;/li&gt;
+  &lt;li&gt;Check &lt;em&gt;Keep undo histories&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Check &lt;em&gt;Save to timestamped file in additional directory&lt;/em&gt; and provide location&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h3 id=&quot;project--tracksend-defaults&quot;&gt;Project :: Track/Send Defaults&lt;/h3&gt;
 
 &lt;ul&gt;
@@ -52,13 +69,13 @@ general transport area) and change &lt;strong&gt;&lt;em&gt;Docked transport posi
 
 &lt;ul&gt;
   &lt;li&gt;Unset &lt;strong&gt;&lt;em&gt;Start new files every …&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Set &lt;em&gt;Filename format for recorded files&lt;/em&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;$track-$year2-$month-$day-$hour$minute-$recpass000&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;audio--seeking&quot;&gt;Audio :: Seeking&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Set &lt;strong&gt;&lt;em&gt;Seek playback on item move/size/fade adjustment, pre-roll:
-1000ms&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Set &lt;em&gt;Seek playback on item move/size/fade adjustment, pre-roll: 1000ms&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;audio--loop-recording&quot;&gt;Audio :: Loop Recording&lt;/h3&gt;
@@ -70,6 +87,7 @@ general transport area) and change &lt;strong&gt;&lt;em&gt;Docked transport posi
 &lt;h3 id=&quot;media&quot;&gt;Media&lt;/h3&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;Set &lt;em&gt;Copy imported media to project media directory&lt;/em&gt;&lt;/li&gt;
   &lt;li&gt;Turn on &lt;strong&gt;&lt;em&gt;Put new peaks files in peaks/ subfolder …&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
